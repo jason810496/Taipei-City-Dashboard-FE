@@ -72,6 +72,14 @@
 				"106"
 			],
 			"icon": "public"
+		},
+		{
+			"name": "人有三急",
+			"index": "toilet",
+			"components": [
+				"201"
+			],
+			"icon": "public"
 		}
 	]
 }
